@@ -1,0 +1,8 @@
+.App {
+  height: 100vh;  
+  text-align: center;
+  background-color: rgb(238, 250, 22);  
+  padding: 40vh; 
+  box-sizing: border-box; 
+}
+
