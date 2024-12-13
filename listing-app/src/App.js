@@ -1,5 +1,5 @@
 import React from 'react';
-import './App.css';  
+import './App.css'; 
 
 function App() {
   const items = ['Apple', 'Banana', 'Orange', 'Mango'];
@@ -17,3 +17,4 @@ function App() {
 }
 
 export default App;
+
